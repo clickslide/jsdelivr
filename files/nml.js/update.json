@@ -3,7 +3,6 @@
   "name": "NML.js",
   "repo": "clickslide/NML.js",
   "files": {
-    "include": ["NML.min.js"],
-    "exclude": ["NML.js", "README.md", "LICENSE", ]
+    "include": ["NML.min.js"]
   }
 }
